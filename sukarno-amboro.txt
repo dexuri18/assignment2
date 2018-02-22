@@ -1,4 +1,4 @@
-this is line 1 by deky and verified by tono retype by deky and 
+this is line 1st by deky rahma and verified by tono amboro retype by deky and 
 tono, we solved the conflict manually for 3rd times
 the second line is by tono verified by deky
 we solve the merge conflict manually
