@@ -1,7 +1,7 @@
 this is line 1st by deky rahma and verified by tono amboro retype by deky and 
-tono, we solved the conflict manually for 3rd times
+tono, we solved the conflict manually for 3rd times again
 the second line is by tono verified by deky
-we solve the merge conflict manually
+we solve the merge conflict manually 
 this is the 1st new line after conflict
 we solved the merge conflict manually again although it does not 
 feel right verified by deky
