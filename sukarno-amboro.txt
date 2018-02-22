@@ -4,4 +4,4 @@ the 2nd line is by tono amboro verified by deky rahma
 we solve the merge conflict manually
 this is the 1st new line after conflict
 we solved the merge conflict manually again although it does not 
-feel right verified by deky
+feel right verified by deky and again 2nd times
