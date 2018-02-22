@@ -1,4 +1,4 @@
 this is line 1 by deky and verified by tono
 the second line is by tono verified by deky
-we solve the merge conflict manually
+we solved the merge conflict manually although it does not feel right
 
