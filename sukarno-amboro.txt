@@ -4,4 +4,4 @@ the second line is by tono verified by deky
 we solve the merge conflict manually
 this is the 1st new line after conflict
 we solved the merge conflict manually again although it does not 
-feel right
+feel right verified by deky
