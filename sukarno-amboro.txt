@@ -1,5 +1,5 @@
-this is line 1st by deky rahma and verified by tono amboro retype by deky and 
-tono, we solved the conflict manually for 3rd times
+this is line 1st by deky rahma and verified by tono amboro retype by deky and
+tono, we solved the conflict manually for 3rd times again
 the 2nd line is by tono amboro verified by deky rahma
 we solve the merge conflict manually
 this is the 1st new line after conflict
