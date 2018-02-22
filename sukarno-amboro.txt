@@ -1,6 +1,6 @@
 this is line 1st by deky rahma and verified by tono amboro retype by deky and 
 tono, we solved the conflict manually for 3rd times
-the second line is by tono verified by deky
+the 2nd line is by tono amboro verified by deky rahma
 we solve the merge conflict manually
 this is the 1st new line after conflict
 we solved the merge conflict manually again although it does not 
